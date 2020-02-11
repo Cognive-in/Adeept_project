@@ -64,7 +64,7 @@ spd_ad_1 = 1
 spd_ad_2 = 1
 spd_ad_u = 1
 
-#Status of the car
+#Status of the
 auto_status   = 0
 ap_status     = 0
 turn_status   = 0

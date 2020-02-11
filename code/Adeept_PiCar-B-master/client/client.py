@@ -7,13 +7,13 @@
 # Author      : William
 # Date        : 2018/08/22
 
-from socket import *
+from socket import *# connection between one server to another
 import sys,subprocess
 import time
-import threading as thread
-import tkinter as tk
+import threading as thread #compile
+import tkinter as tk #graphics
 import math
-import speech_recognition as sr
+import speech_recognition as sr  # spe2ch to text conversion
 import cv2
 import zmq
 import base64
