@@ -5,8 +5,11 @@
 # E-mail      : support@adeept.com
 # Author      : William & Tony DiCola (tony@tonydicola.com, the WS_2812 code)
 # Date        : 2018/10/12
-
+import sys
+sys.path.append("/Downloads/work/bosch/git/Adeept_project")
 import RPi.GPIO as GPIO
+import importlib
+import os
 import motor
 import ultra
 import socket
