@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdba171f-85a1-4e6f-9701-c1683c5f19ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/create_ap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/NEWS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/aclocal.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/autogen.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/config.guess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/config.sub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/configure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/configure.ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/depcomp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/args2man.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/doxy2swig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/doxyfile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/pocketsphinx_batch.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/pocketsphinx_batch.1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/pocketsphinx_continuous.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/pocketsphinx_continuous.1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/doc/pocketsphinx_mdef_convert.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/include/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/include/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/include/cmdln_macro.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/include/config.h.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/include/pocketsphinx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/include/pocketsphinx_export.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/include/ps_lattice.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/include/ps_mllr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/include/ps_search.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/install-sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/ltmain.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/m4/ax_pkg_swig.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/m4/ax_python_devel.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/m4/libtool.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/m4/ltoptions.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/m4/ltsugar.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/m4/ltversion.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/m4/lt~obsolete.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/m4/pkg.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/missing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/cmudict-en-us.dict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us-phone.lm.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us.lm.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us/feat.params" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us/mdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us/means" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us/noisedict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us/sendump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us/transition_matrices" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/model/en-us/en-us/variances" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/pocketsphinx.pc.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/pocketsphinx.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/py-compile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/gst-plugin/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/gst-plugin/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/gst-plugin/gstpocketsphinx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/gst-plugin/gstpocketsphinx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/gst-plugin/livedemo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/gst-plugin/livedemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/acmod.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/acmod.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/allphone_search.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/allphone_search.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/bin_mdef.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/bin_mdef.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/blkarray_list.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/blkarray_list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/dict.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/dict.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/dict2pid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/dict2pid.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/fsg_history.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/fsg_history.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/fsg_lextree.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/fsg_lextree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/fsg_search.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/fsg_search_internal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/hmm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/hmm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/kws_detections.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/kws_detections.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/kws_search.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/kws_search.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/mdef.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/mdef.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ms_gauden.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ms_gauden.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ms_mgau.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ms_mgau.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ms_senone.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ms_senone.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ngram_search.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ngram_search.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ngram_search_fwdflat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ngram_search_fwdflat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ngram_search_fwdtree.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ngram_search_fwdtree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/phone_loop_search.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/phone_loop_search.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/pocketsphinx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/pocketsphinx_internal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ps_alignment.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ps_alignment.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ps_lattice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ps_lattice_internal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ps_mllr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ptm_mgau.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/ptm_mgau.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/s2_semi_mgau.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/s2_semi_mgau.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/s3types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/state_align_search.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/state_align_search.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/tied_mgau_common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/tmat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/tmat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/vector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/libpocketsphinx/vector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/programs/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/programs/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/programs/batch.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/programs/continuous.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/src/programs/mdef_convert.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/pocketsphinx.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/ps_decoder.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/ps_lattice.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/config_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/continuous_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/decoder_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/fsg_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/jsgf_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/kws_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/lattice_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/lm_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/swig/python/test/phoneme_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test-driver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/compare_table.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/an4_ci_cont/feat.params" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/an4_ci_cont/mdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/an4_ci_cont/means" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/an4_ci_cont/mixture_weights" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/an4_ci_cont/noisedict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/an4_ci_cont/transition_matrices" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/an4_ci_cont/variances" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/cards/001.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/cards/002.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/cards/003.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/cards/004.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/cards/005.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/cards/cards.fileids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/cards/cards.gram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/cards/cards.hyp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/cards/cards.transcription" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/defective.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/defective.gram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/goforward.fsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/goforward.gram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/goforward.kws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/goforward.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/goforward.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/librivox/fileids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/librivox/sense_and_sensibility_01_austen_64kb-0870.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/librivox/sense_and_sensibility_01_austen_64kb-0880.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/librivox/sense_and_sensibility_01_austen_64kb-0890.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/librivox/sense_and_sensibility_01_austen_64kb-0920.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/librivox/sense_and_sensibility_01_austen_64kb-0930.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/librivox/test-lm.match" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/librivox/transcription" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/mllr_matrices" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/numbers.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/something.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/test.lmctl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/dhd.2934z.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/hmm/feat.params" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/hmm/mdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/hmm/means" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/hmm/sendump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/hmm/transition_matrices" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/hmm/variances" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/lm/tidigits.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/lm/tidigits.fsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/lm/tidigits.lm.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.111a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.1b.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.2934za.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.35oa.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.3oa.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.4625a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.588zza.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.63a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.6o838a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.75913a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.844o1a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.8b.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.9b.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.o789a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.z4548a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/man.ah.zb.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/test-tidigits-fsg.match" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/test-tidigits-simple.match" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/tidigits.ctl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/tidigits.lsn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.1b.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.276317oa.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.334a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.3z3z9a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.48z66zza.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.532a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.5z874a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.6728za.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.75a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.84983a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.8a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.99731a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.o69a.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.ooa.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/tidigits/woman.ak.za.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/turtle.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/turtle.lm.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/data/unreachable.lat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/regression/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/regression/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/regression/test-cards.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/regression/test-lm.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/regression/test-tidigits-fsg.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/regression/test-tidigits-simple.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/testfuncs.sh.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/testfuncs_cygwin.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_acmod.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_acmod_grow.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_alignment.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_allphone.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_dict.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_dict2pid.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_fsg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_fwdflat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_fwdtree.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_fwdtree_bestpath.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_init.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_jsgf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_keyphrase.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_lattice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_lm_read.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_mllr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_nbest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_posterior.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_ps.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_ptm_mgau.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_reinit.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_senfh.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_set_search.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_simple.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/unit/test_state_align.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/test/word_align.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/win32/pocketsphinx/pocketsphinx.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/win32/pocketsphinx/pocketsphinx.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/win32/pocketsphinx_batch/pocketsphinx_batch.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/win32/pocketsphinx_continuous/pocketsphinx_continuous.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx-5prealpha/win32/pocketsphinx_mdef_convert/pocketsphinx_mdef_convert.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/pocketsphinx.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/NEWS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/aclocal.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/autogen.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/config.guess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/config.sub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/configure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/configure.ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/depcomp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/args2man.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/doxy2swig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/doxyfile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_cepview.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_cepview.1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_cont_seg.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_cont_seg.1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_fe.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_fe.1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_lm_convert.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_lm_eval.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_lm_sort.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_pitch.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/doc/sphinx_pitch.1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/android/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/android/sphinx_config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/config.h.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinx_config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinx_config.h.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/ad.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/agc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/bio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/bitarr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/bitvec.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/byteorder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/case.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/ckd_alloc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/clapack_lite.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/cmd_ln.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/cmn.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/err.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/f2c.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/fe.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/feat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/filename.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/fixpoint.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/fsg_model.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/genrand.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/glist.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/hash_table.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/heap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/jsgf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/listelem_alloc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/logmath.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/matrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/mmio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/ngram_model.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/pio.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/prim_type.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/priority_queue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/profile.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/sbthread.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/sphinxbase_export.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/strfuncs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/sphinxbase/yin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/win32/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/win32/sphinx_config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/wince/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/include/wince/sphinx_config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/install-sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/ltmain.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/m4/ax_pkg_swig.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/m4/ax_python_devel.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/m4/libtool.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/m4/ltoptions.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/m4/ltsugar.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/m4/ltversion.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/m4/lt~obsolete.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/m4/pkg.m4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/missing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/py-compile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/sphinxbase.pc.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/sphinxbase.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxad/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxad/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxad/ad_alsa.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxad/ad_base.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxad/ad_openal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxad/ad_oss.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxad/ad_pulse.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxad/ad_win32.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_interface.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_internal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_noise.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_noise.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_prespch_buf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_prespch_buf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_sigproc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_type.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_warp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_warp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_warp_affine.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_warp_affine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_warp_inverse_linear.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_warp_inverse_linear.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_warp_piecewise_linear.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fe_warp_piecewise_linear.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/fixlog.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/fe/yin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/feat/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/feat/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/feat/agc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/feat/cmn.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/feat/cmn_live.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/feat/feat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/feat/lda.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/_jsgf_scanner.l" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/fsg_model.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/jsgf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/jsgf_internal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/jsgf_parser.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/jsgf_parser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/jsgf_parser.y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/jsgf_scanner.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/jsgf_scanner.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/lm_trie.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/lm_trie.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/lm_trie_quant.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/lm_trie_quant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/ngram_model.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/ngram_model_internal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/ngram_model_set.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/ngram_model_set.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/ngram_model_trie.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/ngram_model_trie.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/ngrams_raw.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/lm/ngrams_raw.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/bio.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/bitarr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/bitvec.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/blas_lite.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/case.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/ckd_alloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/cmd_ln.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/dtoa.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/err.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/f2c_lite.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/filename.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/genrand.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/glist.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/hash_table.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/heap.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/listelem_alloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/logmath.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/matrix.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/mmio.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/pio.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/priority_queue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/profile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/sbthread.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/slamch.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/slapack_lite.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/libsphinxbase/util/strfuncs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_adtools/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_adtools/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_adtools/cont_seg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_adtools/sphinx_pitch.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_cepview/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_cepview/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_cepview/main_cepview.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_fe/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_fe/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_fe/cmd_ln_defn.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_fe/sphinx_fe.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_fe/sphinx_wave2feat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_jsgf2fsg/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_jsgf2fsg/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_jsgf2fsg/fsg2dot.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_jsgf2fsg/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_lmtools/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_lmtools/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_lmtools/sphinx_lm_convert.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/src/sphinx_lmtools/sphinx_lm_eval.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/cmd_ln.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/fe.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/feat.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/fsg_model.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/iterators.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/jsgf.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/logmath.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/ngram_model.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/python/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/python/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/sphinxbase.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/swig/typemaps.i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test-driver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/compare_table.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3-dither.cepview" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3-logspec.cepview" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3-smoothspec.cepview" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3.2chan.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3.cepview" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3.ctl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3.f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3.logspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3.mfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3.sph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/chan3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/polite.gram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-cepview.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-sphinx_fe-ctl.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-sphinx_fe-dct.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-sphinx_fe-dither-seed.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-sphinx_fe-logspec.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-sphinx_fe-logspec2cep.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-sphinx_fe-smoothspec.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-sphinx_fe.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-sphinx_jsgf2fsg.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test-sphinx_pitch.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test.command.fsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test.gram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test.kleene.fsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test.nestedRightRecursion.fsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test.nulltest.fsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/test.rightRecursion.fsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/regression/testfuncs.sh.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/test_ckd_alloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/test_ckd_alloc_abort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/test_ckd_alloc_abort.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/test_ckd_alloc_catch.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/test_ckd_alloc_fail.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/test_ckd_alloc_fail.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/test_listelem_alloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_alloc/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_bitvec/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_bitvec/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_bitvec/test_bitvec.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_bitvec/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/_lcase1.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/_lcase2.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/_lcase3.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/_strcmp1.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/_strcmp2.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/_strcmp3.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/_ucase1.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/_ucase2.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/_ucase3.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_case/chgCase.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_badargs.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_badargs.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_defaults.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_defaults.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_defaults_r.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_defaults_r.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_goodargs.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_goodargs.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_multiple.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/_test_parse_multiple.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/cmdln_parse.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/cmdln_parse_multiple.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_cmdln/cmdln_parse_r.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fe/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fe/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fe/test_fe.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fe/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fe/test_pitch.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_feat/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_feat/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_feat/_test_feat.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_feat/_test_feat.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_feat/test_feat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_feat/test_feat_fe.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_feat/test_feat_live.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_feat/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_feat/test_subvq.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fsg/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fsg/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fsg/goforward.fsg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fsg/polite.gram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fsg/public.gram" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fsg/test_fsg_jsgf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fsg/test_fsg_read.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fsg/test_fsg_write_fsm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_fsg/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete1.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete1.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete2.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete2.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete3.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete3.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete4.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete4.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete5.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/_hash_delete5.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/deletehash.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/display.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/displayhash.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/test_hash_iter.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_hash/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_lineiter/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_lineiter/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_lineiter/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_lineiter/test_lineiter.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_lineiter/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_logmath/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_logmath/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_logmath/test_log_int16.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_logmath/test_log_int8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_logmath/test_log_shifted.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_logmath/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/_test_determinant.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/_test_determinant.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/_test_invert.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/_test_invert.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/_test_solve.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/_test_solve.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/test_determinant.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/test_invert.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_matrix/test_solve.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/100.lm.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/100.lm.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/100.lm.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/100.lm.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/100.lmctl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/100.probdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/102.lm.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/102.lm.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/104.lm.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/105.lm.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/106.lm.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/test_lm_add.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/test_lm_casefold.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/test_lm_class.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/test_lm_read.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/test_lm_score.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/test_lm_set.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/test_lm_write.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/turtle.lm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/turtle.lm.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/turtle.ug.lm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_ngram/turtle.ug.lm.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/_fread_line.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/_fread_line.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/_nextword.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/_str2words.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/_string_join.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/_string_trim.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/strtest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_string/test_atof.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_thread/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_thread/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_thread/test_event.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_thread/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_thread/test_msgq.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_thread/test_thread.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/Makefile.am" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/test_bit_encode.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/test_bitarr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/test_build_directory.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/test_filename.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/test_fopen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/test_heap.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/test_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/test_util/test_readfile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/test/unit/testfuncs.sh.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_cepview/sphinx_cepview.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_cepview/sphinx_cepview.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_fe/sphinx_fe.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_fe/sphinx_fe.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_jsgf2fsg/sphinx_jsgf2fsg.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_jsgf2fsg/sphinx_jsgf2fsg.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_lm_convert/sphinx_lm_convert.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_lm_convert/sphinx_lm_convert.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_pitch/sphinx_pitch.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_pitch/sphinx_pitch.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_seg/sphinx_seg.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinx_seg/sphinx_seg.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinxbase/sphinxbase.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/win32/sphinxbase/sphinxbase.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase-5prealpha/ylwrap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/sphinxbase.tar.gz" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XeUQbyouzUhpoScjUhjHA8UpGN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.findline">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Adeept_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/Adeept_PiCar-B-master/client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/Adeept_PiCar-B-master/client/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Adeept_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/findline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.findline" />
+        <item itemvalue="Python.client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdba171f-85a1-4e6f-9701-c1683c5f19ee" name="Default Changelist" comment="" />
+      <created>1581406038207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581406038207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="216" width="810" height="680" key="#Notifications" timestamp="1581406953979">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="555" y="216" width="810" height="680" key="#Notifications/0.30.1920.1050@0.30.1920.1050" timestamp="1581406953979" />
+    <state x="634" y="170" width="651" height="772" key="#server" timestamp="1581604094355">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="634" y="170" width="651" height="772" key="#server/0.30.1920.1050@0.30.1920.1050" timestamp="1581604094355" />
+    <state x="697" y="314" width="525" height="486" key="EnvironmentVariablesDialog" timestamp="1581604089980">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="697" y="314" width="525" height="486" key="EnvironmentVariablesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1581604089980" />
+    <state x="712" y="298" width="496" height="517" key="FileChooserDialogImpl" timestamp="1581604107056">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="712" y="298" width="496" height="517" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1581604107056" />
+    <state width="1367" height="320" key="GridCell.Tab.0.bottom" timestamp="1581958602181">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1367" height="320" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1581958602181" />
+    <state width="1367" height="320" key="GridCell.Tab.0.center" timestamp="1581958602180">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1367" height="320" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1581958602180" />
+    <state width="1367" height="320" key="GridCell.Tab.0.left" timestamp="1581958602179">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1367" height="320" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1581958602179" />
+    <state width="1367" height="320" key="GridCell.Tab.0.right" timestamp="1581958602181">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1367" height="320" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1581958602181" />
+    <state width="1367" height="320" key="GridCell.Tab.1.bottom" timestamp="1581958602182">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1367" height="320" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1581958602182" />
+    <state width="1367" height="320" key="GridCell.Tab.1.center" timestamp="1581958602181">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1367" height="320" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1581958602181" />
+    <state width="1367" height="320" key="GridCell.Tab.1.left" timestamp="1581958602181">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1367" height="320" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1581958602181" />
+    <state width="1367" height="320" key="GridCell.Tab.1.right" timestamp="1581958602182">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1367" height="320" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1581958602182" />
+    <state x="360" y="155" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581406398574">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="360" y="155" width="1200" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1581406398574" />
+    <state x="620" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1581961631457">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="620" y="382" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1581961631457" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/motor.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/Adeept_PiCar-B-master/server/ultra.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
