@@ -4,7 +4,6 @@
     4  ssh-keygen
     5  done
     6  sudo raspi-config
-    7  mrdir work && cd work && git clone https://github.com/Cognive-in/Adeept_project.git
     8  mkdir work && cd work && git clone https://github.com/Cognive-in/Adeept_project.git
     9  ls
    10  cd A
