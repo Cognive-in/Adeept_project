@@ -1,12 +1,4 @@
 #!/usr/bin/python3
-# Product     : PiCar-B
-# File name   : server.py
-# Description : The main program server takes control of Ultrasonic,Motor,Servo by receiving the order from the client through TCP and carrying out the corresponding operation.
-# Website     : www.adeept.com
-# E-mail      : support@adeept.com
-# Author      : William & Tony DiCola (tony@tonydicola.com, the WS_2812 code)
-# Date        : 2018/10/12
-
 import RPi.GPIO as GPIO
 import motor
 import ultra
