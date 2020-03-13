@@ -29,19 +29,19 @@ def replace_num(file,initial,new_num):
     with open(file,"w") as f:
         f.writelines(newline)
 
-path_get = str(search('//home/pi/','server.py'))
+path_get = str(search('/home/pi/','server.py'))
 path_get=path_get[:-2]
 
 try:
-	os.system('sudo rm //home/pi/startup.sh')
+	os.system('sudo rm /home/pi/startup.sh')
 except:
 	pass
 
 try:
-	os.system('sudo touch //home/pi/startup.sh')
-	with open("//home/pi/startup.sh",'w') as file_to_write:
+	os.system('sudo touch /home/pi/startup.sh')
+	with open("/home/pi/startup.sh",'w') as file_to_write:
 		file_to_write.write("#!/bin/sh\nsudo python3 %sserver.py"%path_get)
 except:
 	pass
 
-os.system('sudo chmod 777 //home/pi/startup.sh')
+os.system('sudo chmod 777 /home/pi/startup.sh')
