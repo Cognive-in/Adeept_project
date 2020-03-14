@@ -18,8 +18,8 @@ class ObjectsOnRoadProcessor(object):
     def __init__(self,
                  car=None,
                  speed_limit=40,
-                 model='/home/pi/DeepPiCar/models/object_detection/data/model_result/road_signs_quantized_edgetpu.tflite',
-                 label='/home/pi/DeepPiCar/models/object_detection/data/model_result/road_sign_labels.txt',
+                 model='/home/pi/Adeept_project/lc/models/object_detection/data/model_result/road_signs_quantized_edgetpu.tflite',
+                 label='/home/pi/Adeept_project/lc/models/object_detection/data/model_result/road_sign_labels.txt',
                  width=640,
                  height=480):
         # model: This MUST be a tflite model that was specifically compiled for Edge TPU.
