@@ -1,7 +1,10 @@
 import logging
-import picar
+import sys
+sys.path.append('\picar\__init__.py')
 import cv2
 import datetime
+import sys
+sys.path.append('handco')
 from hand_coded_lane_follower import HandCodedLaneFollower
 from objects_on_road_processor import ObjectsOnRoadProcessor
 
@@ -30,7 +33,7 @@ class DeepPiCar(object):
         self.pan_servo.write(90)
 
         self.tilt_servo = picar.Servo.Servo(2)
-        self.tilt_servo.offset = 20  # calibrate servo to center
+        self.tilt_servo.offset = 30  # calibrate servo to center
         self.tilt_servo.write(90)
 
         logging.debug('Set up back wheels')
